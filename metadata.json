@@ -1,0 +1,6 @@
+{
+  "name": "Catatan Harian & Pengingat",
+  "description": "Aplikasi catatan harian pintar dengan fitur deteksi dan pembuatan pengingat jadwal otomatis bertenaga AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
